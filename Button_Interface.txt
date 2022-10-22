@@ -1,0 +1,12 @@
+menu -> const cc or const power
+exit to current, temp, power readings
+select
+up nav
+down nav
+coarse/fine adjustment
+
+
+2 modes: constant current, constant power
+
+constant power: change the current depending on the voltage such that a constant power is maintained
+constant current: based off of digital potentiometer voltage
