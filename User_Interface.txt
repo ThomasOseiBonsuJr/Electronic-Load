@@ -1,0 +1,10 @@
+up button: increase current
+down button: decrease current
+reset button: sets current to 0
+
+Print to screen: Current
+		 Power
+		 Fan Speed
+		 Transistor Temperature?
+
+Power Button
